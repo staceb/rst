@@ -1,5 +1,4 @@
-# rst
-
+some text
 
 :ref:`My Section <my-label>`
 
