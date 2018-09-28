@@ -1,7 +1,7 @@
 # rst
 
 
-:ref:`my-label`
+:ref:`My Section <my-label>`
 
 some text 
 some text 
