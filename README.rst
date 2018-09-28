@@ -1,6 +1,6 @@
 some text
 
-:ref:`My Section <my-label>`
+`My Section`_
 
 some text 
 some text 
@@ -8,7 +8,6 @@ some text
 some text 
 some text 
 
-.. _my-label:
 
 My Section
 ----------
